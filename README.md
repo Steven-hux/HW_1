@@ -1,2 +1,3 @@
 # HW_1
-第一个分类，结果储存在文件夹git remote rm origin中
+第一个分类，结果储存在文件夹git remote rm origin中<br>
+导入了必要的包，有一些包因为网路原因暂时还没有导入，正在尝试解决办法
